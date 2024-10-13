@@ -33,7 +33,7 @@ This Power BI dashboard provides a comprehensive analysis of the performance of 
 3. Interact with filters to customize the analysis based on specific time periods, states, or categories.
 
 ## Dashboard Preview
-![Dashboard Preview](./images/dashboard_screenshot.png)
+![Dashboard Preview](./E-Commerce%20Dashboard.png)
 
 
 ## Conclusion
