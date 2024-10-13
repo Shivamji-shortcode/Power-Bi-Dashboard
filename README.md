@@ -33,8 +33,8 @@ This Power BI dashboard provides a comprehensive analysis of the performance of 
 3. Interact with filters to customize the analysis based on specific time periods, states, or categories.
 
 ## Dashboard Preview
-![![Dashboard Preview]([dashboard_screenshot.png](https://github.com/Shivamji-shortcode/Power-Bi-Dashboard/blob/main/E-Commerce%20Dashboard.png)) ]([dashboard_screenshot.png](https://github.com/Shivamji-shortcode/Power-Bi-Dashboard/blob/main/E-Commerce%20Dashboard.png)) 
-(*Replace this with a screenshot of your dashboard for better visual representation*)
+![Dashboard Preview](./images/dashboard_screenshot.png)
+
 
 ## Conclusion
 This Power BI dashboard serves as a powerful tool for the e-commerce store to monitor its performance, identify growth opportunities, and make informed decisions to boost profitability.
